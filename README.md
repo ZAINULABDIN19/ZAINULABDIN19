@@ -1,16 +1,29 @@
-## Hi there 👋
+##Hey there!
+I'm a BS Cyber Security student passionate about information security, ethical hacking, and digital forensics.
+I love diving deep into networks, systems, and vulnerabilities to understand how things work — and how to protect them.
 
-<!--
-**ZAINULABDIN19/ZAINULABDIN19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 What I’m Focused On
 
-Here are some ideas to get you started:
+🔐 Information Security & Ethical Hacking — exploring tools and techniques to secure digital assets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Network & System Security — analyzing and defending against modern cyber threats.
+
+💻 Penetration Testing & Threat Analysis — identifying risks and building defensive strategies.
+
+⚙️ Skills & Strengths
+
+🧩 Strong problem-solving mindset and analytical thinking.
+
+🤝 Great teamwork and communication skills.
+
+🚀 Quick to adapt to new tools, frameworks, and technologies.
+
+🎯 Goals
+
+Currently seeking opportunities to:
+
+Gain hands-on experience in cybersecurity environments.
+
+Expand my knowledge of offensive and defensive security practices.
+
+Contribute to open-source or security-related projects.
