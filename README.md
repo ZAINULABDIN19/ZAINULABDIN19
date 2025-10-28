@@ -1,4 +1,4 @@
-##Hey ##there!
+Hey there!
 I'm a BS Cyber Security student passionate about information security, ethical hacking, and digital forensics.
 I love diving deep into networks, systems, and vulnerabilities to understand how things work — and how to protect them.
 
