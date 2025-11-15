@@ -10,6 +10,8 @@ I love diving deep into networks, systems, and vulnerabilities to understand how
 
 💻 Penetration Testing & Threat Analysis — identifying risks and building defensive strategies.
 
+⌨️ Programming & Algorithmic Thinking — creating clear, optimized code to solve real-world problems.
+
 ⚙️ Skills & Strengths
 
 🧩 Strong problem-solving mindset and analytical thinking.
