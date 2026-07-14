@@ -67,12 +67,12 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zainulabdin19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=zainulabdin19&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=ZAINULABDIN19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=ZAINULABDIN19&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainulabdin19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs?username=ZAINULABDIN19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
