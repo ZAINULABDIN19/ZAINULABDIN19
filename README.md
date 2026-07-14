@@ -14,13 +14,17 @@
 <img src="https://komarev.com/ghpvc/?username=ZAINULABDIN19&label=Profile%20Views&color=00ffcc&style=flat-square"/>
 </p>
 
+---
+
 ## 🎓 About Me
 
 - 🎓 BS Cyber Security Student at HITEC University Taxila (2024–2028)
 - 🛡️ Passionate about Ethical Hacking, Penetration Testing, Cryptography and Secure Software Development
 - 🐧 Working with Kali Linux, TryHackMe and HackTheBox
 - 🌐 Interested in Network Security, Malware Analysis, Digital Forensics and Red Teaming
-- 💻 Building security tools using Python, AI and Machine Learning
+- 💻 Building cybersecurity tools using Python, AI and Machine Learning
+
+---
 
 ## 🛠 Tech Stack
 
@@ -28,42 +32,87 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql,sqlite,linux,kali,git,github,vscode,flask,streamlit"/>
 </p>
 
+---
+
 ## 🔐 Cyber Security Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge"/>
+
 </p>
 
-## 🚀 Featured Projects
+---
+
+# 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
 | 🔐 StegnoVault | AES-256 Encryption + Image Steganography Toolkit |
 | 🛡️ SecureCrypt-Vault-X | Secure Encryption System |
-| 🤖 AI Network Intrusion Detection System | ML Based NIDS using Random Forest |
+| 🤖 AI Network Intrusion Detection System | Machine Learning Based NIDS |
 | 🏥 Hospital Emergency Room Management System | DSA Based Healthcare Management System |
 | 🌐 Network Enumeration Framework | Python GUI Ethical Scanning Tool |
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZAINULABDIN19&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINULABDIN19&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+# 📚 Currently Learning
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ZAINULABDIN19&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 🤝 Connect
-
-- GitHub: https://github.com/ZAINULABDIN19
-- LinkedIn: https://www.linkedin.com/in/zain-ul-abdin-88157b332/
-- Email: za143079@gmail.com
+- 🔥 Penetration Testing
+- 🌐 CCNA & Advanced Networking
+- 🐧 Linux Administration
+- 🏢 Active Directory Security
+- 🦠 Malware Analysis
+- 🔍 Digital Forensics
 
 ---
 
-> Securing the future, one packet at a time.
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZAINULABDIN19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=ZAINULABDIN19&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINULABDIN19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ZAINULABDIN19/ZAINULABDIN19/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ZAINULABDIN19">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⚡ Securing the future, one packet at a time.
+</h3>
