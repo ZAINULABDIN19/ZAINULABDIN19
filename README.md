@@ -61,8 +61,8 @@
 ## 🤝 Connect
 
 - GitHub: https://github.com/ZAINULABDIN19
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/zain-ul-abdin-88157b332/
+- Email: za143079@gmail.com
 
 ---
 
