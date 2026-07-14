@@ -1,13 +1,13 @@
 # Zain Ul Abdin
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZAINULABDIN19/ZAINULABDIN19/main/banner.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/ZAINULABDIN19/ZAINULABDIN19/main/banner.png" width="100%" alt="Cyber Security Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Zain Ul Abdin</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Ethical+Hacker;Python+Developer;AI+%26+ML+Enthusiast;Network+Security+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Ethical+Hacker;Python+Developer;AI+%26+ML+Enthusiast;Penetration+Testing+Learner;Future+Security+Engineer"/>
 </p>
 
 <p align="center">
@@ -16,25 +16,36 @@
 
 ## 🎓 About Me
 
-- 🎓 BS Cyber Security, HITEC University Taxila (2024–2028)
-- 🛡️ Passionate about Ethical Hacking, Penetration Testing, Cryptography and Secure Software Development.
-- 📡 Learning CCNA, Linux Administration, Active Directory and Malware Analysis.
+- 🎓 BS Cyber Security Student at HITEC University Taxila (2024–2028)
+- 🛡️ Passionate about Ethical Hacking, Penetration Testing, Cryptography and Secure Software Development
+- 🐧 Working with Kali Linux, TryHackMe and HackTheBox
+- 🌐 Interested in Network Security, Malware Analysis, Digital Forensics and Red Teaming
+- 💻 Building security tools using Python, AI and Machine Learning
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,sqlite,linux,git,github,vscode,html,css,flask,streamlit"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql,sqlite,linux,kali,git,github,vscode,flask,streamlit"/>
+</p>
+
+## 🔐 Cyber Security Tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge"/>
 </p>
 
 ## 🚀 Featured Projects
 
-| Project | Repository |
+| Project | Description |
 |---|---|
-| 🔐 Stegnovault | https://github.com/ZAINULABDIN19/Stegnovault |
-| 🛡️ SecureCrypt-Vault-X | https://github.com/ZAINULABDIN19/SecureCrypt-Vault-X |
-| 🚨 AI-THEORY-PROJECT | https://github.com/ZAINULABDIN19/AI-THEORY-PROJECT |
-| 📁 SecureBackupSystem | https://github.com/ZAINULABDIN19/SecureBackupSystem |
-| 🏥 Hospital Emergency Room Management System | https://github.com/ZAINULABDIN19/Hospital-Emergency-Room-Management-System |
+| 🔐 StegnoVault | AES-256 Encryption + Image Steganography Toolkit |
+| 🛡️ SecureCrypt-Vault-X | Secure Encryption System |
+| 🤖 AI Network Intrusion Detection System | ML Based NIDS using Random Forest |
+| 🏥 Hospital Emergency Room Management System | DSA Based Healthcare Management System |
+| 🌐 Network Enumeration Framework | Python GUI Ethical Scanning Tool |
 
 ## 📊 GitHub Stats
 
@@ -50,8 +61,9 @@
 ## 🤝 Connect
 
 - GitHub: https://github.com/ZAINULABDIN19
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- Email: YOUR_EMAIL@example.com
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
 
 ---
+
 > Securing the future, one packet at a time.
